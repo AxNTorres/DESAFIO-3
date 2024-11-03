@@ -1,0 +1,13 @@
+#ele1{
+    background-color: green;
+}
+
+body{
+    display: flex;
+    gap: 10px;
+}
+.caja {
+    height: 200px;
+    width: 200px;
+    border: solid 1px black;
+}
